@@ -1,2 +1,3 @@
 streamlit
+psycopg2-binary  # for PostgreSQL connection
 pandas
